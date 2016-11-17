@@ -5,7 +5,7 @@
 /* 
  * This is a server-side baseball simulation written in PHP.
  * The game includes:
- * r0: Strikeouts, Groundouts and Flyouts
+ * r0: Strikeouts, Groundouts and Flyouts with Sacrifice
  * r0: Walk, Single, Double, Triple, and Home Run
  * r0: Extra innings (if necessary)
  * r0: Line score after each inning
